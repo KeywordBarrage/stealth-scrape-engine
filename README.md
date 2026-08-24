@@ -31,4 +31,7 @@ We do **not** handle routine, basic, or entry-level scraping tasks. Our engineer
 
 For high-ticket data pipeline requests, custom target audits, or specialized extraction architecture:
 
-👉 **Website:** [keywordbarrage.com](https://keywordbarrage.com)
+* **Website:** [https://keywordbarrage.com](https://keywordbarrage.com)
+* **Telegram Channel:** [@keywordbarrage](https://t.me/s/keywordbarrage)
+* **Direct Contact:** [info@keywordbarrage.com](mailto:info@keywordbarrage.com)
+
